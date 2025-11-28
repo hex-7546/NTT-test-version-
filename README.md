@@ -315,19 +315,17 @@ CONFIG.CLKOUT1_REQUESTED_OUT_FREQ {100.000}  # Change to 100 MHz
 This project is provided as educational material. See individual component licenses:
 - PicoRV32: ISC License
 - Kyber algorithms: Public domain
-- Project code: MIT License (or specify your own)
 
 ## Support
 
 For issues:
 1. Check [WINDOWS_GUIDE.md](WINDOWS_GUIDE.md) for Windows-specific help
-2. Review build logs in `build/` directory
-3. Verify all prerequisites are installed
-4. Check UART connection and baud rate
+2. Verify all prerequisites are installed
+3. Check UART connection and baud rate
 
 ## Authors
 
-- Your Name / Your Organization
+- Yash Mahto
 - Based on CRYSTALS-Kyber reference implementation
 - PicoRV32 by Claire Wolf (YosysHQ)
 
