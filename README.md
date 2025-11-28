@@ -319,7 +319,7 @@ This project is provided as educational material. See individual component licen
 ## Support
 
 For issues:
-1. Check [WINDOWS_GUIDE.md]([WindowsUse/WINDOWS_GUIDE.md](https://github.com/hex-7546/NTT-test-version-/blob/main/Windows%20Use/WINDOWS_GUIDE.md)) for Windows-specific help
+1. Check [WINDOWS_GUIDE.md]([WindowsUse/WINDOWS_GUIDE.md]) for Windows-specific help
 2. Verify all prerequisites are installed
 3. Check UART connection and baud rate
 
